@@ -1,4 +1,4 @@
-FROM python:3.4-slim-jessie
+FROM python:3.5-slim-jessie
 
 LABEL maintainer="info@wearespindle.com"
 
